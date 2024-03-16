@@ -1,11 +1,11 @@
-import React from "react";
+import React from 'react'
 
-const Date = () => {
+const DateCom = () => {
   return (
     <div>
       
     </div>
-  );
-};
+  )
+}
 
-export default Date;
+export default DateCom
